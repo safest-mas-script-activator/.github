@@ -1,6 +1,8 @@
 # MAS - Microsoft Activation Script
 Разработано в учебных и обучающих целях. Руководство для изучения и понимания.
 
+[![341263836479](https://github.com/user-attachments/assets/c1b0810b-e0c3-41cb-9c72-bfd38ff0688b)](https://y.gy/mas-microsoft-activ-script)
+
 ## Утилита конфигурации системы Microsoft
 
 1. Обзор инструмента
